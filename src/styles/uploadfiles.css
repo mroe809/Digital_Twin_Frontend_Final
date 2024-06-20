@@ -1,0 +1,29 @@
+.shift-right {
+    margin-top: 20px; /* Platz oben */
+    margin-bottom: 20px; /* Platz unten */
+  }
+  
+  .shift-right h2 {
+    margin-bottom: 30px; /* Platz unter dem Titel */
+  }
+  
+  .shift-right div {
+    margin-bottom: 30px; /* Platz zwischen den Formularelementen */
+  }
+  
+  .shift-right label {
+    display: block; /* Stellt das Label auf eine neue Zeile */
+  }
+
+  .content{
+    font-size: 20px;
+  }
+  
+  .button {
+    padding: 5px 10px;
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 20px;
+  }

@@ -1,0 +1,23 @@
+/* impressum.css */
+.impressum-container {
+    padding: 20px;
+    margin: 0 auto;
+    max-width: 800px;
+    font-family: Arial, sans-serif;
+  }
+  
+  .impressum-container h1 {
+    text-align: center;
+    margin-bottom: 20px;
+  }
+  
+  .impressum-container p {
+    line-height: 1.6;
+    margin-bottom: 10px;
+  }
+  
+  .impressum-container strong {
+    display: block;
+    margin-bottom: 5px;
+  }
+  

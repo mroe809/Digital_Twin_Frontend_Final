@@ -1,0 +1,42 @@
+
+.link-style {
+    color: inherit; 
+    text-decoration: none; 
+  }
+  
+  .link-style:hover {
+    cursor: pointer;
+  }
+  
+  .shift-right {
+    margin-left: 200px; 
+}
+
+.small-button {
+  padding: 5px 10px;
+  background-color: #007bff;
+  color: #fff;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  margin-left: 10px; 
+}
+
+.link{
+  color:#007bff;
+}
+
+  /* Stile für den kleinen Button */
+  .small-button {
+    padding: 5px 10px;
+    background-color: #007bff;
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    margin-left: 10px; 
+  }
+  
+  .small-button:hover {
+    background-color: #0056b3;
+  }

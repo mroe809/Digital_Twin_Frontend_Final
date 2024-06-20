@@ -1,0 +1,10 @@
+.process-item {
+    margin-bottom: 20px; 
+  }
+  
+  .process-image {
+    display: block;
+    margin-left: 0; 
+    height: 100px; 
+    margin-top: 5px; 
+  }
